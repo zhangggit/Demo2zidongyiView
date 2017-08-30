@@ -37,7 +37,6 @@ public class MyView extends RelativeLayout {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getContext(), "点击返回", Toast.LENGTH_SHORT).show();
-
             }
         });
         //加载自定义的布局属性
