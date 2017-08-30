@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         app:bg="@color/colorPrimary"
         app:titletext="自定义View"
-        app:titletextcolor="#bd13e7"/>
+        app:titletextcolor="#0bdc1d" />
 
 </LinearLayout>
